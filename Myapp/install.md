@@ -1,0 +1,5 @@
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+dotnet tool install --global dotnet-ef
