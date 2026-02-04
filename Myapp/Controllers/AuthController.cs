@@ -11,7 +11,7 @@ using MyWebApi.Models;
 
 namespace MyWebApi.Controllers;
 
-[ApiController]
+[ApiController] 
 [Route("api/auth")]
 public class AuthController : ControllerBase
 {

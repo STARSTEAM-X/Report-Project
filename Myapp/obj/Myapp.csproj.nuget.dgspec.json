@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STARSTEAM_X\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj": {}
+    "C:\\Users\\SSX\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STARSTEAM_X\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj": {
+    "C:\\Users\\SSX\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STARSTEAM_X\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj",
+        "projectUniqueName": "C:\\Users\\SSX\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj",
         "projectName": "Myapp",
-        "projectPath": "C:\\Users\\STARSTEAM_X\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj",
-        "packagesPath": "C:\\Users\\STARSTEAM_X\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STARSTEAM_X\\Documents\\GitHub\\Report-Project\\Myapp\\obj\\",
+        "projectPath": "C:\\Users\\SSX\\Documents\\GitHub\\Report-Project\\Myapp\\Myapp.csproj",
+        "packagesPath": "C:\\Users\\SSX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SSX\\Documents\\GitHub\\Report-Project\\Myapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\STARSTEAM_X\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\SSX\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
